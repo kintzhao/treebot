@@ -1,0 +1,8 @@
+-I/usr/include/opencv
+-I/usr/include
+-I/home/yhzhao/treebot/include
+-I/home/yhzhao/treebot/build
+-DUNIX_H_
+-o
+/home/yhzhao/treebot/build/timerEvent/moc_widget.cpp
+/home/yhzhao/treebot/timerEvent/widget.h

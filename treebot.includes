@@ -1,0 +1,13 @@
+camera_calibration/class
+include/ARToolKitPlus
+include/ARToolKitPlus/extra
+main_src
+qr_detect
+qrslam
+serialport
+src/core
+src/librpp
+timerEvent
+tools/IdPatGen/PN
+treeRobot
+treeRobot3

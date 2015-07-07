@@ -1,0 +1,10 @@
+-I/usr/include/opencv
+-I/usr/include
+-I/home/yhzhao/treebot/include
+-I/home/yhzhao/treebot/build
+-I/home/yhzhao/treebot/build
+-I/home/yhzhao/treebot/treeRobot3
+-DUNIX_H_
+-o
+/home/yhzhao/treebot/build/treeRobot3/moc_util.cpp
+/home/yhzhao/treebot/treeRobot3/util.h

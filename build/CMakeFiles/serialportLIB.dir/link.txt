@@ -1,0 +1,2 @@
+/usr/bin/ar cr libserialportLIB.a  CMakeFiles/serialportLIB.dir/serialport/serialport.cpp.o CMakeFiles/serialportLIB.dir/serialport/moc_serialport.cpp.o
+/usr/bin/ranlib libserialportLIB.a

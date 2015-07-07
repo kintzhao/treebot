@@ -1,0 +1,11 @@
+#ifndef TREEROBOTCONSTANT
+#define TREEROBOTCONSTANT
+
+#define SET_VELOCITY            0x01
+#define SET_DIRECTION_UP        0x02
+#define SET_DIRECTION_DOWN      0x03
+#define SET_DIRECTION_LEFT      0x04
+#define SET_DIRECTION_RIGHT     0x05
+
+#endif // TREEROBOTCONSTANT
+

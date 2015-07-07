@@ -1,0 +1,21 @@
+ARToolKitPlus-2.3.1  + qtcreator+ artoolkitplus +opencv 
+
+erro : QTerro:Size mismatch for type ‘QPaintBufferCacheEntry’ [1024]. Previously registered size 0 
+
+参见说明：http://blog.csdn.net/zyh821351004/article/details/46641573
+---------------------------------------------------------------------------------------------------------------------------------------------------
+QMetaType::registerType: Binary compatibility break — Size mismatch for type ‘QPaintBufferCacheEntry’ [1024]. Previously registered size 0, now regist
+
+        发现这个问题出现与连接时依赖opencv有关， 推测问题主要出在安装的opencv 与qt4 ,qt5间的关系构成的版本问题。。应该是opencv lib编译时依赖了qt4.而我的工程需要依赖qt5..
+
+如：my problem is solved. this is happened because i used opencv libs in my project and compiled it with qt4. i rebuild opencv with qt5 and now everything is ok。
+
+解决：
+
+       1.  将qt5设为默认库：参考：http://blog.csdn.net/zyh821351004/article/details/43273763
+
+         sudo apt-get install qt5-default
+
+        2. 重新编译opencv:   （想快速点，记得将example关闭）
+
+参考sh文件：http://blog.csdn.net/zyh821351004/article/details/43488945            

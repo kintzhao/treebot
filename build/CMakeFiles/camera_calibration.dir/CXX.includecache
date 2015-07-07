@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yhzhao/treebot/camera_calibration/class/CameraCalibrator.cpp
+CameraCalibrator.h
+/home/yhzhao/treebot/camera_calibration/class/CameraCalibrator.h
+
+/home/yhzhao/treebot/camera_calibration/class/CameraCalibrator.h
+vector
+-
+iostream
+-
+opencv2/core/core.hpp
+-
+opencv2/imgproc/imgproc.hpp
+/home/yhzhao/treebot/camera_calibration/class/opencv2/imgproc/imgproc.hpp
+opencv2/calib3d/calib3d.hpp
+/home/yhzhao/treebot/camera_calibration/class/opencv2/calib3d/calib3d.hpp
+opencv2/highgui/highgui.hpp
+-
+
+/home/yhzhao/treebot/camera_calibration/class/GeometryTypes.cpp
+GeometryTypes.hpp
+/home/yhzhao/treebot/camera_calibration/class/GeometryTypes.hpp
+
+/home/yhzhao/treebot/camera_calibration/class/GeometryTypes.hpp
+

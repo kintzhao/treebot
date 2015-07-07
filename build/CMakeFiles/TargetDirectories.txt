@@ -1,0 +1,9 @@
+/home/yhzhao/treebot/build/CMakeFiles/ARToolKitPlus.dir
+/home/yhzhao/treebot/build/CMakeFiles/CameraEstimation.dir
+/home/yhzhao/treebot/build/CMakeFiles/ar_detect.dir
+/home/yhzhao/treebot/build/CMakeFiles/ar_slam_main.dir
+/home/yhzhao/treebot/build/CMakeFiles/calibrate.dir
+/home/yhzhao/treebot/build/CMakeFiles/camera_calibration.dir
+/home/yhzhao/treebot/build/CMakeFiles/serialportLIB.dir
+/home/yhzhao/treebot/build/CMakeFiles/timer.dir
+/home/yhzhao/treebot/build/CMakeFiles/treeRobot3_run.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar cr libcamera_calibration.a  CMakeFiles/camera_calibration.dir/camera_calibration/class/CameraCalibrator.cpp.o CMakeFiles/camera_calibration.dir/camera_calibration/class/GeometryTypes.cpp.o
+/usr/bin/ranlib libcamera_calibration.a

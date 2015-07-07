@@ -1,0 +1,7 @@
+-I/usr/include/opencv
+-I/usr/include
+-I/home/yhzhao/treebot/include
+-DUNIX_H_
+-o
+/home/yhzhao/treebot/build/serialport/moc_serialport.cpp
+/home/yhzhao/treebot/serialport/serialport.h

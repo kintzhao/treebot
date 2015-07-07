@@ -1,0 +1,2 @@
+/usr/bin/ar cr libar_detect.a  CMakeFiles/ar_detect.dir/qr_detect/detectqrcode.cpp.o
+/usr/bin/ranlib libar_detect.a

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<read>"camera calibration by kint at 15.02.03"</read>
+<imageCount>12</imageCount>
+<Camera_Matrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+  9.1509981047786130e+02 0.0000000000000000e+00 2.0575335905553018e+02
+  0.0000000000000000e+00 9.2746616336918169e+02 2.4198533767630585e+02
+  0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00
+  </data>
+</Camera_Matrix>
+
+
+
+
+<Distortion_Coefficients type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>4</cols>
+  <dt>d</dt>
+  <data>
+   -2.0603047840741776e-01 2.3028714510446815e-01 2.4271342500201500e-03 5.2771715678070581e-03
+  </data>
+</Distortion_Coefficients>
+</opencv_storage>

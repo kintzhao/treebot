@@ -1,0 +1,2 @@
+/usr/bin/ar cr libCameraEstimation.a  CMakeFiles/CameraEstimation.dir/qrslam/CameraEstimation.cpp.o
+/usr/bin/ranlib libCameraEstimation.a
